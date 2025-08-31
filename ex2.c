@@ -13,4 +13,11 @@ int main () {
     printf("Endereço armazenado em p: %p\n", (void*)p);
 
     return 0;
+    
+    /*
+    saida: Digite sua idade: 25
+    Idade: 25
+    Endereço de idade: 0x7fffa6e0455c
+    Endereço armazenado em p: 0x7fffa6e0455c
+    */
 }
